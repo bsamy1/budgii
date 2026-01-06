@@ -1,2 +1,2 @@
-# Best Budget
+# Budgii 💸
 Personal Budget Tracker
